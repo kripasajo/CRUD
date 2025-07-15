@@ -17,6 +17,7 @@ This project allows users to add, view, update, and delete items with a fully fu
 
 ## 📁 Project Structure
 mern-crud/
+
 ├── backend/
 │ ├── models/
 │ ├── routes/
@@ -36,7 +37,6 @@ mern-crud/
 
 - Add new items
 - View all items
-- Edit existing items
 - Delete items
 - Responsive React UI
 - RESTful API using Express
@@ -47,6 +47,7 @@ mern-crud/
 
 ### ✅ Clone the repository
 git clone https://github.com/your-username/mern-crud-app.git
+
 cd mern-crud-app
 ✅ Setup Backend
 ```

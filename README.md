@@ -46,12 +46,10 @@ mern-crud/
 ## 🛠️ Getting Started
 
 ### ✅ Clone the repository
-
-```bash
 git clone https://github.com/your-username/mern-crud-app.git
 cd mern-crud-app
 ✅ Setup Backend
-
+```
 cd backend
 npm install
 Create a .env file in the backend/ folder:
@@ -59,18 +57,19 @@ Create a .env file in the backend/ folder:
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/merncrud
 
-
+```
 Start MongoDB (if installed locally):
-
+```
 mongod
-
+```
 Run backend server:
-
-
+```
 node server.js
+```
 
 ✅ Setup Frontend
-
+```
 cd frontend
 npm install
 npm start
+```
